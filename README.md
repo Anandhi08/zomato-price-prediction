@@ -1,1 +1,1 @@
-# zomato-price-prediction
+# Thyroid detection
